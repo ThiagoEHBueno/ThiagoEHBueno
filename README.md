@@ -22,7 +22,7 @@
   
  <div>
 
-## Contact
+## Contato
  
 <div align="center" style="display:inline_block"><br>
   <a href="https://www.linkedin.com/in/thiago-bueno-755244203/" target="_blank"><img  height="35" widtdh="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
