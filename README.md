@@ -31,3 +31,5 @@
   <a href="https://web.whatsapp.com/send?phone=12982332422" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
   
 </div>
+
+![Snake animation](https://github.com/ThiagoEHBueno/ThiagoEHBueno/blob/output/github-contribution-grid-snake.svg)
