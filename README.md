@@ -5,9 +5,6 @@
 - 🎈 Eu quero ser um desenvolvedor Front-end
 
 
-[![Thiago Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoEHBueno)](https://https://github.com/ThiagoEHBueno/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEHBueno&size_weight=0.5&count_weight=1&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/ThiagoEHBueno/github-readme-stats)
-
 
   ##
 <div align="center" style="display:inline_block"><br>
