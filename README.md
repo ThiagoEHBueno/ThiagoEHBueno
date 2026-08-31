@@ -1,8 +1,8 @@
 ## Olá, eu sou o Thiago Bueno!
 
-- 🔭 Atualmente trabalho como Oficineiro de tecnologias
+- 🔭 Atualmente trabalho como assistente escolar e transporte
 - 🌱 Estudando JavaScript e TypeScript com Angular
-- 🎈 Eu quero ser um desenvolvedor Front-end
+- 🎈 Eu quero ser um desenvolvedor Full-Stack
 
 
 
